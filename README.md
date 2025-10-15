@@ -1,4 +1,4 @@
-<h1>👥 HR Analytics Dashboard – Reason by Attrition | Power BI Project</h1>
+<h1>👥 HR Analytics Dashboard  | Power BI Project</h1>
 
 This project features a comprehensive HR Analytics Dashboard developed using Power BI, with a primary focus on analyzing employee attrition and its reasons. The goal is to help HR teams identify key drivers of attrition and take data-driven actions to improve employee retention and organizational performance.
 
